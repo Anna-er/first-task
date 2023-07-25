@@ -39,6 +39,7 @@ body {
 }
 
 .nav-item:hover {
+    text-transform: uppercase
     color: #a298cd;
 }
 
