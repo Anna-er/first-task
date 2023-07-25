@@ -103,7 +103,7 @@ body {
 }
 .header-subtitle {
     margin-top: 30px;
-    margin-bottom: 70px;
+    margin-bottom: 66px;
     width: 450px;
     font-weight: 400;
     font-size: 16px;
@@ -116,7 +116,6 @@ body {
     background-color: #00000021;
     margin-left: 250px;
     margin-top: 91px;
-    z-index: 10;
 }
 .img {
     width 490px;
@@ -129,7 +128,6 @@ body {
 .header-d {
     padding-top: 0px;
     display: flex;
-    z-index: 10;
 }
 
 .contacts {
@@ -174,7 +172,7 @@ body {
     font-weight: 700;
 }
 .background-lines {
-    z-index: -5;
+    margin-top: -270px
 }
 .line-1 {
     width: 414px;
@@ -184,7 +182,6 @@ body {
     z-index: -5;
 }
 .line-2 {
-    position: absolute;
     width: 377px;
     height: 845px;
     margin-top: -845px;
@@ -192,7 +189,6 @@ body {
     z-index: -5;
 }
 .line-3 {
-    position: absolute;
     width: 735.029296875px;
     height: 419.3227844238281px;
     margin-top: -425px;
@@ -200,10 +196,9 @@ body {
     z-index: -5;
 }
 .line-4 {
-    position: absolute;
     width: 238.07470703125px;
     height: 561px;
-    margin-top: -526px;
+    margin-top: -1500px;
     margin-left: -75px;
     z-index: -5;
 }
