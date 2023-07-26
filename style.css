@@ -118,8 +118,8 @@ body {
     margin-top: 91px;
 }
 .img {
-    width 490px;
-    height 426px;
+    width: 490px;
+    height: 426px;
     opacity: 0;
     margin: 14px 18px 15px 13px;
     animation: 1s alternate slidein forwards;
